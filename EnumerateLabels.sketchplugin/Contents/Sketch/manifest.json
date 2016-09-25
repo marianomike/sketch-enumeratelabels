@@ -1,0 +1,24 @@
+{
+  "author" : "",
+  "commands" : [
+    {
+      "script" : "script.js",
+      "name" : "EnumerateLabels",
+      "handlers" : {
+        "run" : "onRun"
+      },
+      "identifier" : "com.bohemiancoding.sketch.runscriptidentifier"
+    }
+  ],
+  "menu" : {
+    "items" : [
+      "com.bohemiancoding.sketch.runscriptidentifier"
+    ],
+    "title" : "EnumerateLabels"
+  },
+  "identifier" : "com.example.sketch.d4b5cbe8-8d93-499b-88aa-9b8f5b2752a5",
+  "version" : "1.0",
+  "description" : "",
+  "authorEmail" : "",
+  "name" : "EnumerateLabels"
+}
